@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MinigameSelection.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/CommandTyping.unity
+    guid: 3d2ec98ae5f194c4d9312970c545f466
+  - enabled: 1
+    path: Assets/Scenes/Graphs.unity
+    guid: 599dfb3835d579c448ac2e2db3719c42
   m_configObjects: {}
